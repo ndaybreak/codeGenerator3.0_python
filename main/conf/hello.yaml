@@ -1,0 +1,10 @@
+---
+!!python/object:__main__.Person
+   name: Tome
+   sex: male
+   addr: shandong
+---
+!!python/object:__main__.Person
+   name: Jim
+   sex: female
+   addr: heze
